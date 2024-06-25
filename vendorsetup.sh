@@ -4,4 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-# Reserved
+
+add_lunch_combo omni_gta9-user
+add_lunch_combo omni_gta9-userdebug
+add_lunch_combo omni_gta9-eng

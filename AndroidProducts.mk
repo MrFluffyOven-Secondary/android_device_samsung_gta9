@@ -6,7 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_gta9.mk
+    $(LOCAL_DIR)/omni_gta9.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_gta9-eng
+    omni_gta9-user \
+    omni_gta9-userdebug \
+    omni_gta9-eng
